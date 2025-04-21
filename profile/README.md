@@ -2,9 +2,9 @@
 
 Ваш персональный тренер, стирающий границы между реальным и виртуальным миром
 
-<div style="text-align: center">
-  <img src="https://raw.githubusercontent.com/tisit/assets/main/tisit_poster_studio.png" alt="tisit poster" width="300"/>
-</div>
+<p align="center">
+  <img src="https://github.com/tisit-inc/.github/blob/main/assets/tisit_poster_studio.webp" alt="tisit poster" width="300"/>
+</p>
 
 ## Наша миссия
 
@@ -22,11 +22,11 @@
 
 ## 🛠️ Наш тех стек
 
-<div style="text-align: center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=fastapi,kafka,postgres,mongodb,redis,python,pytorch,tensorflow,typescript,docker,kubernetes" />
   </a> 
-</div>
+</p>
 
 ## 📬 Контакты
 
@@ -38,6 +38,6 @@ This project is licensed under the TISIT License.
 
 ---
 
-<div style="text-align: center">
+<p align="center">
   сделано с ❤️ командой TISIT
-</div>
+</p>
