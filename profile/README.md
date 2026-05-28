@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,kafka,postgres,mongodb,redis,python,pytorch,tensorflow,typescript,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=go,fastapi,kafka,postgres,mongodb,redis,python,pytorch,tensorflow,typescript,docker,kubernetes" />
   </a> 
 </p>
 
